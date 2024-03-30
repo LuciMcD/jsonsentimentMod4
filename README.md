@@ -1,3 +1,10 @@
+# Module 4
+In this module we are using json and sentiment analysis. This repo contains a jupyter notebook with 4 questions and solutions using what I have learned for this Module. 
+
+An API is also used in this repo from https://api.lyrics.ovh/v1.
+
+#### The following were the requirements for this assignment.
+
 # Requests, JSON, and basic NLP with spaCy
 
 Complete the tasks in the Python Notebook in this repository.
